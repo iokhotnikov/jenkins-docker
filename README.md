@@ -9,10 +9,8 @@ With plugins:
 
     docker-compose up -d
 
-
 ### Rebuild
 
     docker-compose build
 
-
-Open http://localhost:5555
+Open http://localhost:5656/jenkins-ci
